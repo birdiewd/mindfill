@@ -1,6 +1,10 @@
 # mindfill
 Note taking that works the way my mind works
 
+Inspirations:
+* https://www.semilattice.xyz/?ref=heydesigner
+* Notion
+
 Initial thoughts:
 
 ::default block
